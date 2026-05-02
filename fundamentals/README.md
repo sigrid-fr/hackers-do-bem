@@ -225,7 +225,7 @@ Core topic: Responding to security incidents and using secure communication prot
 
 | Lab | Module | Topic | Completed |
 |-----|--------|-------|-----------|
-| Lab 01 | M1 | Social engineering analysis & phishing simulation | ✅ |
+| Lab 01 | M1 | Social engineering analysis & phishing detection techniques | ✅ |
 | Lab 02 | M2 | Malware identification & basic threat classification | ✅ |
 | Lab 03 | M3 | Threat identification using logs & IoCs | ✅ |
 | Lab 04 | M4 | Access control testing (RBAC & least privilege scenarios) | ✅ |
