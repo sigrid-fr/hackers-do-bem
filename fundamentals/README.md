@@ -87,7 +87,7 @@ fundamentals/
 
 ## 📦 Module Overview
 
-### Module 01 – Security Principles & Social Engineering
+### [Module 01 – Security Principles & Social Engineering](../fundamentals/01-security-principles-and-social-engineering)
 **Sessions:** 1st & 2nd online meetings (Feb 02 & 04)
 
 Core topic: Foundations of information security and human-centered attacks.
