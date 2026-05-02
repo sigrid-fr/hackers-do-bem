@@ -45,7 +45,7 @@ Hands-on activities focused on understanding both technical and human aspects of
 - Analyzed phishing scenarios and suspicious URLs to recognize social engineering patterns  
 
 ⚠️ **Ethical Note:**
-All activities were conducted in a controlled, educational environment, focusing on methodology and awareness without exposing sensitive data or real exploitation techniques.
+`All activities were conducted in a controlled, educational environment, focusing on methodology and awareness without exposing sensitive data or real exploitation techniques.`
 
 ---
 
