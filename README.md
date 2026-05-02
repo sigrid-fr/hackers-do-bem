@@ -42,7 +42,7 @@ hackers-do-bem-cybersecurity-labs/
 │   ├── module-12-grc/
 │   └── labs/
 │
-├── devsecops-specialization/        ← 🔄 In progress (started May 4, 2025)
+├── devsecops-specialization/        ← 🔄 In progress (started May 4, 2026)
 │   ├── README.md                    ← Full specialization overview
 │   ├── module-01-secure-sdlc/
 │   ├── module-02-pipelines-automation/
