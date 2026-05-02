@@ -28,19 +28,18 @@ hackers-do-bem/
 │
 ├── fundamentals/                     ← ✅ Completed level
 │   ├── README.md                    ← Full module overview & timeline
-│   ├── module-01-threats/
-│   ├── module-02-identifying-threats/
-│   ├── module-03-secure-architecture/
-│   ├── module-04-secure-development/
-│   ├── module-05-auth-authz-audit/
-│   ├── module-06-resilience/
-│   ├── module-07-cryptography/
-│   ├── module-08-host-security/
-│   ├── module-09-wireless-mobile/
-│   ├── module-10-cloud-virtualization/
-│   ├── module-11-incident-response/
-│   ├── module-12-grc/
-│   └── labs/
+│   ├── 01-security-principles-and-social-engineering/
+│   ├── 02-threats-malware-and-controls/
+│   ├── 03-threat-identification-techniques/
+│   ├── 04-access-controls/
+│   ├── 05-identity-and-account-management/
+│   ├── 06-web-security-and-secure-development/
+│   ├── 07-redundancy-backup-physical-security-and-data-destruction/
+│   ├── 08-cryptography-concepts/
+│   ├── 09-public-key-infrastructure-and-blockchain/
+│   ├── 10-host-security/
+│   ├── 11-secure-networking-and-security-devices/
+│   └── 12-incident-response-and-secure-protocols/
 │
 ├── devsecops-specialization/        ← 🔄 In progress (started May 4, 2026)
 │   ├── README.md                    ← Full specialization overview
