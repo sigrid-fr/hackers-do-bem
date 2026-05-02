@@ -111,7 +111,6 @@ Residência Tecnológica ⬜  ←── 6-month applied practice at RNP offices
 - [x] Hackers do Bem – Fundamental ✅
 - [ ] Hackers do Bem – DevSecOps Specialization 🔄 *(in progress)*
 - [ ] CompTIA Security+ *(planned)*
-- [ ] eJPT – Junior Penetration Tester *(planned)*
 
 ---
 
