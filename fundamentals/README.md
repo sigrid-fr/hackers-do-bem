@@ -1,6 +1,6 @@
-# 🔐 Hackers do Bem – Fundamental Level
+# 🔐 Hackers do Bem – Fundamentals
 
-> **Fundamental level** of the Hackers do Bem program (ESR / RNP) — **completed ✅**
+> **Fundamentals** of the Hackers do Bem program (ESR / RNP) — **completed ✅**
 > 96-hour synchronous course covering core cybersecurity domains through theory, labs, and hands-on exercises.
 > **Duration:** 9 weeks | **Format:** Live online classes + async labs | **Modules:** 12
 
@@ -41,184 +41,181 @@ The Fundamental level is where the QA → Cybersecurity transition became real f
 ## 🗂️ Repository Structure
 
 ```
-fundamental/
+fundamentals/
 │
 ├── README.md                              ← You are here
 │
-├── module-01-threats-attacks-vulnerabilities/
+├── 01-security-principles-and-social-engineering/
 │   ├── README.md
-│   └── notes.md
-├── module-02-identifying-threats/
+│   └── scripts
+├── 02-threats-malware-and-controls/
 │   ├── README.md
-│   └── notes.md
-├── module-03-secure-architecture-design/
+│   └── scripts
+├── 03-threat-identification-techniques/
 │   ├── README.md
-│   └── notes.md
-├── module-04-secure-development/
+│   └── scripts
+├── 04-access-controls/
 │   ├── README.md
-│   └── notes.md
-├── module-05-authentication-authorization-audit/
+│   └── scripts
+├── 05-identity-and-account-management/
 │   ├── README.md
-│   └── notes.md
-├── module-06-resilience-specialized-systems/
+│   └── scripts
+├── 06-web-security-and-secure-development/
 │   ├── README.md
-│   └── notes.md
-├── module-07-cryptography/
+│   └── scripts
+├── 07-redundancy-backup-physical-security-and-data-destruction/
 │   ├── README.md
-│   └── notes.md
-├── module-08-host-security-equipment/
+│   └── scripts
+├── 08-cryptography-concepts/
 │   ├── README.md
-│   └── notes.md
-├── module-09-wireless-mobile-security/
+│   └── scripts
+├── 09-public-key-infrastructure-and-blockchain/
 │   ├── README.md
-│   └── notes.md
-├── module-10-virtualization-cloud-security/
+│   └── scripts
+├── 10-host-security/
 │   ├── README.md
-│   └── notes.md
-├── module-11-incident-response/
+│   └── scripts
+├── 11-secure-networking-and-security-devices/
 │   ├── README.md
-│   └── notes.md
-├── module-12-grc/
+│   └── scripts
+└── 12-incident-response-and-secure-protocols/
 │   ├── README.md
-│   └── notes.md
-│
-└── labs/
-    └── README.md                          ← Index of all lab exercises
+│   └── scripts                          
 ```
 
 ---
 
 ## 📦 Module Overview
 
-### Module 01 – Threats, Attacks & Vulnerabilities
+### Module 01 – Security Principles & Social Engineering
 **Sessions:** 1st & 2nd online meetings (Feb 02 & 04)
 
-Core topic: Understanding the threat landscape — types of attacks, CVEs, attack surfaces, and vulnerability taxonomy.
+Core topic: Foundations of information security and human-centered attacks.
 
-**Key concepts:** threat actors, attack vectors, CVSS scoring, common vulnerability types.
+**Key concepts:** CIA triad, risk, security policies, phishing, pretexting, social engineering techniques.
 
-**My QA connection:** In QA I reported bugs with severity levels — here I learned the industry-standard way to score vulnerabilities (CVSS). Same concept, more rigorous framework.
+**My QA connection:** In QA, I focused on system behavior; here I learned that humans are often the weakest link. Security isn’t just technical — it’s behavioral.
 
 ---
 
-### Module 02 – Techniques for Identifying Threats
+### Module 02 – Threats, Malware & Controls
 **Sessions:** 3rd online meeting (Feb 06)
 
-Core topic: How to actively identify threats using scanning, enumeration, and threat intelligence techniques.
+Core topic: Types of threats and how defensive controls mitigate them.
 
-**Key concepts:** reconnaissance, footprinting, Nmap scanning, OSINT basics, threat intelligence feeds.
+**Key concepts:** malware types (ransomware, trojans, spyware), threat landscape, preventive/detective/corrective controls.
 
-**My QA connection:** Test case discovery in QA is essentially reconnaissance — finding all the surfaces to test before writing a single case.
+**My QA connection:** Similar to validating edge cases in QA, here I learned to think about how systems fail under malicious conditions.
 
 ---
 
-### Module 03 – Secure Architecture & Design
+### Module 03 – Threat Identification Techniques
 **Sessions:** 4th online meeting (Feb 09)
 
-Core topic: Principles of designing systems with security built in from the start, not bolted on.
+Core topic: Methods for identifying and analyzing threats.
 
-**Key concepts:** defense in depth, zero trust, least privilege, secure network segmentation, DMZ design.
+**Key concepts:** threat modeling, indicators of compromise (IoCs), logs, monitoring, basic analysis techniques.
 
-**My QA connection:** QA often catches issues late in the SDLC — this module showed me how "shift left" security design prevents those bugs from existing in the first place.
+**My QA connection:** Just like debugging in QA, this involves investigating signals and narrowing down root causes — but with a security mindset.
 
 ---
 
-### Module 04 – Secure Development
+### Module 04 – Access Controls
 **Sessions:** 5th online meeting (Feb 20) | Labs: Feb 16 – Feb 27
 
-Core topic: Writing and reviewing code with security in mind — OWASP Top 10, input validation, and secure coding standards.
+Core topic: Mechanisms to control who can access what.
 
-**Key concepts:** SQL injection, XSS, CSRF, input sanitization, secure code review, SAST basics.
+**Key concepts:** authentication vs authorization, RBAC, least privilege, multi-factor authentication (MFA).
 
-**My QA connection:** I've always tested *whether* input was validated. This module taught me *how* attackers exploit it when it isn't — completely changed how I think about test case design.
+**My QA connection:** In QA I test permissions and roles — here I understood the principles behind designing secure access systems.
 
 ---
 
-### Module 05 – Authentication, Authorization & Audit
+### Module 05 – Identity & Account Management
 **Sessions:** 6th online meeting (Feb 23) | Labs: Feb 23 – Mar 06
 
-Core topic: How identity and access management works — and how it fails.
+Core topic: Managing digital identities securely.
 
-**Key concepts:** MFA, OAuth, session management, privilege escalation, access control models (DAC, MAC, RBAC), audit logging.
+**Key concepts:** IAM, account lifecycle, identity verification, provisioning/deprovisioning.
 
-**My QA connection:** API testing always involved auth flows. This module deepened my understanding of *why* those flows are the most attacked surface in any application.
+**My QA connection:** Similar to validating user flows in QA, but focused on identity integrity and preventing unauthorized access.
 
 ---
 
-### Module 06 – Resilience, Specialized Systems & Physical Security
+### Module 06 – Web Security & Secure Development
 **Sessions:** 7th & 8th online meetings | Labs: Mar 02 – Mar 13
 
-Core topic: Business continuity, disaster recovery, ICS/SCADA security, and physical access controls.
+Core topic: Securing web applications and adopting secure coding practices.
 
-**Key concepts:** BCP, DRP, RTO/RPO, IoT security, SCADA vulnerabilities, physical security controls.
+**Key concepts:** OWASP Top 10, input validation, XSS, SQL injection, secure SDLC.
 
-**My QA connection:** Resilience in systems is something QA tests under load and failure conditions. Here I learned the security dimensions of the same resilience thinking.
+**My QA connection:** Strong overlap — I already test web apps; now I understand how vulnerabilities are introduced and how to prevent them earlier.
 
 ---
 
-### Module 07 – Cryptography
+### Module 07 – Backup, Redundancy & Physical Security
 **Sessions:** 8th & 9th online meetings | Labs: Mar 02 – Mar 13
 
-Core topic: The mathematics and practical application of encryption, hashing, and PKI.
+Core topic: Ensuring availability and protecting physical assets.
 
-**Key concepts:** symmetric vs asymmetric encryption, AES, RSA, TLS/SSL, digital signatures, certificate chains, PKI, hashing algorithms (SHA, MD5).
+**Key concepts:** backup strategies, redundancy, disaster recovery, physical access control.
 
-**My QA connection:** I tested HTTPS endpoints without truly understanding what happened underneath. Now I can verify crypto implementations and spot misconfigurations.
+**My QA connection:** In QA we validate system reliability; here I learned how systems stay resilient even after failures or attacks.
 
 ---
 
-### Module 08 – Host Security & Security Equipment
+### Module 08 – Cryptography Concepts
 **Sessions:** 10th online meeting | Labs: Mar 09 – Mar 20
 
-Core topic: Hardening operating systems and configuring security appliances.
+Core topic: Protecting data through encryption.
 
-**Key concepts:** OS hardening (Windows & Linux), endpoint protection, firewall configuration, IDS/IPS, WAF, SIEM basics.
+**Key concepts:** symmetric/asymmetric encryption, hashing, digital signatures.
 
-**My QA connection:** I ran automated tests on application servers — this module taught me how to secure those servers themselves, not just the apps on them.
+**My QA connection:** I used to validate encrypted flows without understanding them — now I know how data is actually protected.
 
 ---
 
-### Module 09 – Wireless & Mobile Security
+### Module 09 – Public Key Infrastructure & Blockchain
 **Sessions:** 11th & 12th online meetings | Labs: Mar 16 – Mar 27
 
-Core topic: Security risks specific to wireless networks and mobile devices.
+Core topic: Trust models and decentralized security.
 
-**Key concepts:** WPA2/WPA3, rogue AP attacks, evil twin, MDM (Mobile Device Management), BYOD policies, mobile app security.
+**Key concepts:** PKI, certificates, certificate authorities, blockchain basics.
 
-**My QA connection:** Mobile testing was part of my QA work — this extended that into the attack surface of mobile devices and Wi-Fi protocols.
+**My QA connection:** Similar to validating secure connections (HTTPS), but now I understand what happens behind the scenes.
 
 ---
 
-### Module 10 – Virtualization & Cloud Security
+### Module 10 – Host Security
 **Sessions:** 13th & 14th online meetings | Labs: Mar 16 – Mar 27
 
-Core topic: Security in virtualized environments and cloud platforms.
+Core topic: Securing individual machines and operating systems.
 
-**Key concepts:** hypervisor security, container security, shared responsibility model, cloud misconfigurations, IAM in cloud, S3 bucket exposure.
+**Key concepts:** hardening, patching, endpoint protection, system monitoring.
 
-**My QA connection:** CI/CD pipelines I've worked with run on cloud infrastructure. This module showed me the attack surface of those environments and how to secure them.
+**My QA connection:** Like testing environments in QA, but focused on securing the host against attacks and misconfigurations.
 
 ---
 
-### Module 11 – Incident Response
+### Module 11 – Secure Networking & Security Devices
 **Sessions:** 15th & 16th online meetings | Labs: Mar 23 – Apr 03
 
-Core topic: How to detect, contain, and recover from security incidents.
+Core topic: Protecting network infrastructure.
 
-**Key concepts:** IR lifecycle (Preparation → Identification → Containment → Eradication → Recovery → Lessons Learned), CSIRT, forensic basics, chain of custody, log analysis.
+**Key concepts:** firewalls, IDS/IPS, VPNs, network segmentation.
 
-**My QA connection:** Bug triage in QA mirrors incident response — both require fast identification, severity assessment, escalation, and a post-mortem. The structured IR lifecycle felt very familiar.
+**My QA connection:** I used to focus on API/network behavior — now I understand how traffic is controlled and protected.
 
 ---
 
-### Module 12 – Governance, Risk & Compliance (GRC)
+### Module 12 – Incident Response & Secure Protocols
 **Sessions:** 17th & 18th online meetings | Labs: Mar 30 – Apr 03
 
-Core topic: The management layer of cybersecurity — policies, risk frameworks, and regulatory compliance.
+Core topic: Responding to security incidents and using secure communication protocols.
 
-**Key concepts:** ISO 27001, NIST framework, LGPD (Brazil's data protection law), risk assessment, security policies, audit processes.
+**Key concepts:** incident lifecycle, containment, recovery, HTTPS, TLS.
 
-**My QA connection:** QA involves compliance with test standards and quality policies. GRC is the same discipline applied to organizational security — I already understood the importance of documented processes and accountability.
+**My QA connection:** Similar to handling production bugs — but with structured response processes and security impact in mind.
 
 ---
 
@@ -228,18 +225,18 @@ Core topic: The management layer of cybersecurity — policies, risk frameworks,
 
 | Lab | Module | Topic | Completed |
 |-----|--------|-------|-----------|
-| Lab 01 | M1 | Vulnerability scanning & CVE research | ✅ |
-| Lab 02 | M2 | Reconnaissance with OSINT tools | ✅ |
-| Lab 03 | M3 | Secure network design exercise | ✅ |
-| Lab 04 | M4 | Exploiting & fixing OWASP vulnerabilities | ✅ |
-| Lab 05 | M5 | Auth bypass & session hijacking scenarios | ✅ |
-| Lab 06 | M6 | BCP/DR tabletop exercise | ✅ |
-| Lab 07 | M7 | Cryptography: encrypt, hash, verify | ✅ |
-| Lab 08 | M8 | OS hardening checklist (Linux & Windows) | ✅ |
-| Lab 09 | M9 | Wi-Fi attack simulation & defense | ✅ |
-| Lab 10 | M10 | Cloud misconfiguration analysis | ✅ |
-| Lab 11 | M11 | Incident response tabletop scenario | ✅ |
-| Lab 12 | M12 | Risk assessment exercise | ✅ |
+| Lab 01 | M1 | Social engineering analysis & phishing simulation | ✅ |
+| Lab 02 | M2 | Malware identification & basic threat classification | ✅ |
+| Lab 03 | M3 | Threat identification using logs & IoCs | ✅ |
+| Lab 04 | M4 | Access control testing (RBAC & least privilege scenarios) | ✅ |
+| Lab 05 | M5 | Identity lifecycle & account management simulation | ✅ |
+| Lab 06 | M6 | OWASP vulnerabilities testing (XSS, SQLi) & secure coding fixes | ✅ |
+| Lab 07 | M7 | Backup & disaster recovery planning exercise | ✅ |
+| Lab 08 | M8 | Cryptography practice (encryption, hashing, signatures) | ✅ |
+| Lab 09 | M9 | PKI basics & certificate validation | ✅ |
+| Lab 10 | M10 | Host security hardening (Linux/Windows baseline) | ✅ |
+| Lab 11 | M11 | Network security analysis (firewalls, segmentation) | ✅ |
+| Lab 12 | M12 | Incident response simulation & secure protocols usage | ✅ |
 
 ---
 
