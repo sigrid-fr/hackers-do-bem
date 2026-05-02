@@ -22,11 +22,11 @@
 ## 🗂️ Repository Structure
 
 ```
-hackers-do-bem-cybersecurity-labs/
+hackers-do-bem/
 │
 ├── README.md                        ← You are here
 │
-├── fundamental/                     ← ✅ Completed level
+├── fundamentals/                     ← ✅ Completed level
 │   ├── README.md                    ← Full module overview & timeline
 │   ├── module-01-threats/
 │   ├── module-02-identifying-threats/
