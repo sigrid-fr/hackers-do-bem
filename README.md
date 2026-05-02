@@ -1,4 +1,4 @@
-# 🛡️ Hackers do Bem – Cybersecurity Labs & Notes
+# 🛡️ Hackers do Bem – Cybersecurity Labs
 
 > Documentation of my full journey through the **Hackers do Bem** program (SENAI / ESR / RNP) — Brazil's national cybersecurity training program.
 > This repository tracks everything I learned across two levels, written as a **QA Engineer transitioning into Cybersecurity**.
@@ -72,19 +72,19 @@ Residência Tecnológica ⬜  ←── 6-month applied practice at RNP offices
 
 ## 🔎 Highlights by Level
 
-### ✅ Fundamental Level
+### ✅ Fundamentals
 - 12 modules covering the full cybersecurity domain
 - 96 hours of live synchronous training
 - Hands-on labs in virtual environments
 - Topics: threats & attacks, secure architecture, cryptography, incident response, GRC, cloud security, and more
-- → [See full notes](./fundamental/README.md)
+- → [See more](./fundamental/README.md)
 
 ### 🔄 DevSecOps Specialization
 - Integrating security into the Software Development Lifecycle (SDLC)
 - CI/CD pipelines with GitLab, Docker, containers
 - SAST, DAST, automated security testing
 - Final case study: building a secure DevSecOps pipeline end-to-end
-- → [See full notes](./devsecops-specialization/README.md)
+- → [See more](./devsecops-specialization/README.md)
 
 ---
 
