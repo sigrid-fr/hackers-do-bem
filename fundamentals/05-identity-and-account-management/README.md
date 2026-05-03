@@ -1,6 +1,6 @@
 # Module 05 – Identity & Account Management
 
-> **Status:** ✅ Completed | **Sessions:** 6th online meeting (Feb 13, 2026) | **Lab deadline:** Mar 06, 2026
+> **Status:** ✅ Completed | **Sessions:** 9th & 10th online meeting (Feb 25 & 27) | **Lab deadline:** Mar 6, 2026
 
 ---
 
