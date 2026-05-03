@@ -1,6 +1,6 @@
 # Module 04 – Access Controls
 
-> **Status:** ✅ Completed | **Sessions:** 5th online meeting (Feb 11, 2026) | **Lab deadline:** Mar 01, 2026
+> **Status:** ✅ Completed | **Sessions:** 5th online meeting (Feb 11, 2026) | **Lab deadline:** Mar 1, 2026
 
 ---
 
