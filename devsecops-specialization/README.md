@@ -7,7 +7,7 @@
 
 ---
 
-## 🧭 Why DevSecOps — and Why It Fits My Background
+## Why DevSecOps — and Why It Fits My Background
 
 As a **QA Engineer transitioning to Cybersecurity**, DevSecOps is the most natural specialization I could have chosen. Here's why:
 
@@ -24,7 +24,7 @@ As a **QA Engineer transitioning to Cybersecurity**, DevSecOps is the most natur
 
 ---
 
-## 📚 Course Structure
+## Course Structure
 
 This specialization is organized into **3 modules** with **5 lessons each**, totaling 15 hands-on lessons plus a final Case Study.
 
@@ -75,7 +75,7 @@ devsecops-specialization/
 
 ---
 
-## 📦 Module 01 – Secure Development Methodologies
+## Module 01 – Secure Development Methodologies
 
 **Goal:** Understand how to embed security into every phase of the Software Development Lifecycle, and get comfortable with containers.
 
@@ -93,7 +93,7 @@ devsecops-specialization/
 
 ---
 
-## 📦 Module 02 – Pipelines & Automated Testing
+## Module 02 – Pipelines & Automated Testing
 
 **Goal:** Build and manage CI/CD pipelines with GitLab, including version control, conflict resolution, and automated test integration.
 
@@ -111,7 +111,7 @@ devsecops-specialization/
 
 ---
 
-## 📦 Module 03 – DevSecOps
+## Module 03 – DevSecOps
 
 **Goal:** Apply DevSecOps principles in practice — integrate security scanning, automate security tasks, and implement monitoring and incident response.
 
@@ -129,7 +129,7 @@ devsecops-specialization/
 
 ---
 
-## 🧪 Lab Exercises
+## Lab Exercises
 
 Each lesson has a corresponding 1-hour hands-on lab in a virtual environment. I'll document each one here with my notes and commands used.
 
@@ -153,7 +153,7 @@ Each lesson has a corresponding 1-hour hands-on lab in a virtual environment. I'
 
 ---
 
-## 🏁 Final Project — Case Study
+## Final Project — Case Study
 
 The specialization ends with a **Case Study** — a realistic professional scenario where I apply everything learned to solve a DevSecOps challenge. This is the capstone deliverable.
 
@@ -178,12 +178,9 @@ case-study/
     ├── pipeline-diagram.png
     └── topology.png
 ```
-
-> ⚠️ *Case study details will be revealed during the course. This section will be updated as I progress.*
-
 ---
 
-## 🛠️ Tools Covered in This Specialization
+## Tools Covered in This Specialization
 
 | Tool | Purpose |
 |------|---------|
@@ -198,7 +195,7 @@ case-study/
 
 ---
 
-## 📈 My Progress
+## My Progress
 
 - [ ] Module 1 – Secure Development Methodologies *(starts May 4)*
 - [ ] Module 2 – Pipelines & Automated Testing
@@ -208,7 +205,7 @@ case-study/
 
 ---
 
-## 📝 Lesson Note Template
+## Lesson Note Template
 
 Each lesson file follows this structure so notes are consistent and useful:
 
