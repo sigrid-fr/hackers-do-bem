@@ -46,41 +46,29 @@ fundamentals/
 ├── README.md                              ← You are here
 │
 ├── 01-security-principles-and-social-engineering/
-│   ├── README.md
-│   └── scripts/
+│   └── README.md
 ├── 02-threats-malware-and-controls/
-│   ├── README.md
-│   └── scripts/
+│   └── README.md
 ├── 03-threat-identification-techniques/
-│   ├── README.md
-│   └── scripts/
+│   └── README.md
 ├── 04-access-controls/
-│   ├── README.md
-│   └── scripts/
+│   └── README.md
 ├── 05-identity-and-account-management/
-│   ├── README.md
-│   └── scripts/
+│   └── README.md
 ├── 06-web-security-and-secure-development/
-│   ├── README.md
-│   └── scripts/
+│   └── README.md
 ├── 07-redundancy-backup-physical-security-and-data-destruction/
-│   ├── README.md
-│   └── scripts/
+│   └── README.md
 ├── 08-cryptography-concepts/
-│   ├── README.md
-│   └── scripts/
+│   └── README.md
 ├── 09-public-key-infrastructure-and-blockchain/
-│   ├── README.md
-│   └── scripts/
+│   └── README.md
 ├── 10-host-security/
-│   ├── README.md
-│   └── scripts/
+│   └── README.md
 ├── 11-secure-networking-and-security-devices/
-│   ├── README.md
-│   └── scripts/
+│   └── README.md
 └── 12-incident-response-and-secure-protocols/
-│   ├── README.md
-│   └── scripts/
+│   └── README.md
 └── fundamentals-certificate.pdf                       
 ```
 
@@ -269,7 +257,6 @@ Core topic: Responding to security incidents and using secure communication prot
 
 Each module folder contains:
 - `README.md` — summary of what was covered, key takeaways, and QA connection
-- `scripts` — main commands used
 
 > This documentation was written *during* the course to reinforce learning and build a public record of what I know — not just that I attended.
 
