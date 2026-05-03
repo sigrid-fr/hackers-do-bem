@@ -6,7 +6,7 @@
 
 ---
 
-## 🧭 Why This Level Matters for My Career Transition
+## Why This Level Matters for My Career Transition
 
 The Fundamental level is where the QA → Cybersecurity transition became real for me. This course forced me to go beyond understanding *what* vulnerabilities are and start thinking about *how* to find, exploit, and defend against them — in controlled, hands-on environments.
 
@@ -20,7 +20,7 @@ The Fundamental level is where the QA → Cybersecurity transition became real f
 
 ---
 
-## 📅 Course Timeline
+## Course Timeline
 
 | Period | Activity |
 |--------|----------|
@@ -38,7 +38,7 @@ The Fundamental level is where the QA → Cybersecurity transition became real f
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 fundamentals/
@@ -86,7 +86,7 @@ fundamentals/
 
 ---
 
-## 📦 Module Overview
+## Module Overview
 
 ### [Module 01 – Security Principles & Social Engineering](../fundamentals/01-security-principles-and-social-engineering)
 **Sessions:** 1st & 2nd online meetings (Feb 02 & 04)
@@ -220,7 +220,7 @@ Core topic: Responding to security incidents and using secure communication prot
 
 ---
 
-## 🧪 Labs — Hands-on Exercises
+## Labs — Hands-on Exercises
 
 > Each module included virtual lab exercises applying concepts in controlled environments. Notes and key commands are documented in each module folder.
 
@@ -241,7 +241,7 @@ Core topic: Responding to security incidents and using secure communication prot
 
 ---
 
-## 🛠️ Tools Used Throughout the Course
+## Tools Used Throughout the Course
 
 | Tool | Purpose |
 |------|---------|
@@ -255,7 +255,7 @@ Core topic: Responding to security incidents and using secure communication prot
 
 ---
 
-## 🏆 Outcome
+## Outcome
 
 - ✅ **96 hours** of live synchronous training completed
 - ✅ **12 modules** covering the full cybersecurity domain
@@ -265,7 +265,7 @@ Core topic: Responding to security incidents and using secure communication prot
 
 ---
 
-## 📁 What's in This Repository
+## What's in This Repository
 
 Each module folder contains:
 - `README.md` — summary of what was covered, key takeaways, and QA connection
