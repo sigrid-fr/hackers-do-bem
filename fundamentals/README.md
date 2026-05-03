@@ -77,7 +77,7 @@ fundamentals/
 ## Module Overview
 
 ### [Module 01 – Security Principles & Social Engineering](../fundamentals/01-security-principles-and-social-engineering)
-**Sessions:** 1st & 2nd online meetings (Feb 02 & 04)
+**Sessions:** 1st & 2nd online meetings (Feb 2 & 4) | Labs: Feb 02 – Feb 22
 
 Core topic: Foundations of information security and human-centered attacks.
 
@@ -87,8 +87,8 @@ Core topic: Foundations of information security and human-centered attacks.
 
 ---
 
-### Module 02 – Threats, Malware & Controls
-**Sessions:** 3rd online meeting (Feb 06)
+### [Module 02 – Threats, Malware & Controls](../fundamentals/02-threats-malware-and-controls)
+**Sessions:** 3rd & 4th online meeting (Feb 6 & 9) | Labs: Feb 02 – Feb 22
 
 Core topic: Types of threats and how defensive controls mitigate them.
 
@@ -98,8 +98,8 @@ Core topic: Types of threats and how defensive controls mitigate them.
 
 ---
 
-### Module 03 – Threat Identification Techniques
-**Sessions:** 4th online meeting (Feb 09)
+### [Module 03 – Threat Identification Techniques](../fundamentals/03-threat-identification-techniques)
+**Sessions:** 5th & 6th online meeting (Feb 11 & 13) | Labs: Feb 09 – Feb 22
 
 Core topic: Methods for identifying and analyzing threats.
 
@@ -109,8 +109,8 @@ Core topic: Methods for identifying and analyzing threats.
 
 ---
 
-### Module 04 – Access Controls
-**Sessions:** 5th online meeting (Feb 20) | Labs: Feb 16 – Feb 27
+### [Module 04 – Access Controls](../fundamentals/04-access-controls)
+**Sessions:** 7th & 8th online meeting (Feb 20 & 23) | Labs: Feb 16 – Mar 1
 
 Core topic: Mechanisms to control who can access what.
 
@@ -120,8 +120,8 @@ Core topic: Mechanisms to control who can access what.
 
 ---
 
-### Module 05 – Identity & Account Management
-**Sessions:** 6th online meeting (Feb 23) | Labs: Feb 23 – Mar 06
+### [Module 05 – Identity & Account Management](../fundamentals/05-identity-and-account-management)
+**Sessions:**  9th & 10th online meeting (Feb 25 & 27) | Labs: Feb 23 – Mar 6
 
 Core topic: Managing digital identities securely.
 
@@ -131,8 +131,8 @@ Core topic: Managing digital identities securely.
 
 ---
 
-### Module 06 – Web Security & Secure Development
-**Sessions:** 7th & 8th online meetings | Labs: Mar 02 – Mar 13
+### [Module 06 – Web Security & Secure Development](../fundamentals/06-web-security-and-secure-development)
+**Sessions:** 11st & 12nd online meetings (Mar 2 & 6) | Labs: Mar 2 – Mar 13
 
 Core topic: Securing web applications and adopting secure coding practices.
 
@@ -142,8 +142,8 @@ Core topic: Securing web applications and adopting secure coding practices.
 
 ---
 
-### Module 07 – Backup, Redundancy & Physical Security
-**Sessions:** 8th & 9th online meetings | Labs: Mar 02 – Mar 13
+### [Module 07 – Backup, Redundancy & Physical Security](../fundamentals/07-redundancy-backup-physical-security-and-data-destruction)
+**Sessions:** 13rd & 14th online meetings (Mar 9 & 10) | Labs: Mar 02 – Mar 13
 
 Core topic: Ensuring availability and protecting physical assets.
 
@@ -153,8 +153,8 @@ Core topic: Ensuring availability and protecting physical assets.
 
 ---
 
-### Module 08 – Cryptography Concepts
-**Sessions:** 10th online meeting | Labs: Mar 09 – Mar 20
+### [Module 08 – Cryptography Concepts](../fundamentals/08-cryptography-concepts)
+**Sessions:** 15th & 16th online meeting (Mar 11 & 13) | Labs: Mar 09 – Mar 20
 
 Core topic: Protecting data through encryption.
 
@@ -164,8 +164,8 @@ Core topic: Protecting data through encryption.
 
 ---
 
-### Module 09 – Public Key Infrastructure & Blockchain
-**Sessions:** 11th & 12th online meetings | Labs: Mar 16 – Mar 27
+### [Module 09 – Public Key Infrastructure & Blockchain](../fundamentals/09-public-key-infrastructure-and-blockchain)
+**Sessions:** 17th & 18th online meetings (Mar 16 & 19) | Labs: Mar 16 – Mar 27
 
 Core topic: Trust models and decentralized security.
 
@@ -175,8 +175,8 @@ Core topic: Trust models and decentralized security.
 
 ---
 
-### Module 10 – Host Security
-**Sessions:** 13th & 14th online meetings | Labs: Mar 16 – Mar 27
+### [Module 10 – Host Security](../fundamentals/10-host-security)
+**Sessions:** 19th & 20th online meetings (Mar 20 & 23) | Labs: Mar 16 – Mar 27
 
 Core topic: Securing individual machines and operating systems.
 
@@ -186,8 +186,8 @@ Core topic: Securing individual machines and operating systems.
 
 ---
 
-### Module 11 – Secure Networking & Security Devices
-**Sessions:** 15th & 16th online meetings | Labs: Mar 23 – Apr 03
+### [Module 11 – Secure Networking & Security Devices](../fundamentals/11-secure-networking-and-security-devices)
+**Sessions:** 21st & 22nd online meetings (Mar 25 & 27) | Labs: Mar 23 – Apr 03
 
 Core topic: Protecting network infrastructure.
 
@@ -197,8 +197,8 @@ Core topic: Protecting network infrastructure.
 
 ---
 
-### Module 12 – Incident Response & Secure Protocols
-**Sessions:** 17th & 18th online meetings | Labs: Mar 30 – Apr 03
+### [Module 12 – Incident Response & Secure Protocols](../fundamentals/12-incident-response-and-secure-protocols)
+**Sessions:** 23rd & 24th online meetings (Mar 30 & Apr 1) | Labs: Mar 23 – Apr 05
 
 Core topic: Responding to security incidents and using secure communication protocols.
 
