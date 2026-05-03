@@ -47,40 +47,40 @@ fundamentals/
 │
 ├── 01-security-principles-and-social-engineering/
 │   ├── README.md
-│   └── scripts
+│   └── scripts/
 ├── 02-threats-malware-and-controls/
 │   ├── README.md
-│   └── scripts
+│   └── scripts/
 ├── 03-threat-identification-techniques/
 │   ├── README.md
-│   └── scripts
+│   └── scripts/
 ├── 04-access-controls/
 │   ├── README.md
-│   └── scripts
+│   └── scripts/
 ├── 05-identity-and-account-management/
 │   ├── README.md
-│   └── scripts
+│   └── scripts/
 ├── 06-web-security-and-secure-development/
 │   ├── README.md
-│   └── scripts
+│   └── scripts/
 ├── 07-redundancy-backup-physical-security-and-data-destruction/
 │   ├── README.md
-│   └── scripts
+│   └── scripts/
 ├── 08-cryptography-concepts/
 │   ├── README.md
-│   └── scripts
+│   └── scripts/
 ├── 09-public-key-infrastructure-and-blockchain/
 │   ├── README.md
-│   └── scripts
+│   └── scripts/
 ├── 10-host-security/
 │   ├── README.md
-│   └── scripts
+│   └── scripts/
 ├── 11-secure-networking-and-security-devices/
 │   ├── README.md
-│   └── scripts
+│   └── scripts/
 └── 12-incident-response-and-secure-protocols/
 │   ├── README.md
-│   └── scripts                         
+│   └── scripts/                       
 ```
 
 ---
