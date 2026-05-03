@@ -1,4 +1,4 @@
-# 🔐 DevSecOps Specialization – Hackers do Bem
+# DevSecOps Specialization – Hackers do Bem
 
 > **Specialized level** of the Hackers do Bem program (ESR / RNP).
 > 80-hour synchronous specialization focused on integrating security into the Software Development Lifecycle (SDLC), CI/CD pipelines, and DevOps culture.
