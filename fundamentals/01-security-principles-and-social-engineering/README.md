@@ -1,4 +1,4 @@
-# Module [01] – Security Principles & Social Engineering
+# Module 01 – Security Principles & Social Engineering
 
 > **Status:** ✅ Completed | **Sessions:** 1st & 2nd online meetings | **Lab deadline:** Feb 22, 2026
 
