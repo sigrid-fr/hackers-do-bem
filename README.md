@@ -5,7 +5,7 @@
 
 ---
 
-## 📚 About Hackers do Bem
+## About Hackers do Bem
 
 **[Hackers do Bem](https://hackersdobem.org.br/)** is a free national cybersecurity training program created by the Brazilian government (SENAI + RNP + Ministry of Science, Technology and Innovation), designed to train 30,000 cybersecurity professionals across Brazil.
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 hackers-do-bem/
@@ -55,7 +55,7 @@ hackers-do-bem/
 
 ---
 
-## 🧭 My Learning Journey
+## My Learning Journey
 
 ```
 Nivelamento (80h) ✅
@@ -71,7 +71,7 @@ Residência Tecnológica ⬜  ←── 6-month applied practice at RNP offices
 
 ---
 
-## 🔎 Highlights by Level
+## Highlights by Level
 
 ### ✅ Fundamentals
 - 12 modules covering the full cybersecurity domain
@@ -89,7 +89,7 @@ Residência Tecnológica ⬜  ←── 6-month applied practice at RNP offices
 
 ---
 
-## 🛠️ Tools Used Across Both Levels
+## Tools Used Across Both Levels
 
 | Tool | Context |
 |------|---------|
@@ -104,7 +104,7 @@ Residência Tecnológica ⬜  ←── 6-month applied practice at RNP offices
 
 ---
 
-## 📈 Certifications & Progress
+## Certifications & Progress
 
 - [x] Hackers do Bem – Nivelamento ✅
 - [x] Hackers do Bem – Básico ✅
@@ -114,7 +114,7 @@ Residência Tecnológica ⬜  ←── 6-month applied practice at RNP offices
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/sigrid-rodrigues)
 - 🐙 [GitHub](https://github.com/sigrid-fr)
