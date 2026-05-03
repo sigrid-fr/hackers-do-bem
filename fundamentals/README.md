@@ -80,7 +80,7 @@ fundamentals/
 │   └── scripts
 └── 12-incident-response-and-secure-protocols/
 │   ├── README.md
-│   └── scripts                          
+│   └── scripts                         
 ```
 
 ---
@@ -268,7 +268,7 @@ Core topic: Responding to security incidents and using secure communication prot
 
 Each module folder contains:
 - `README.md` — summary of what was covered, key takeaways, and QA connection
-- `notes.md` — detailed lesson notes, commands used, and lab outputs
+- `scripts` — main commands used
 
 > This documentation was written *during* the course to reinforce learning and build a public record of what I know — not just that I attended.
 
