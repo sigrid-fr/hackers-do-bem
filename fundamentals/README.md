@@ -1,4 +1,4 @@
-# 🔐 Hackers do Bem – Fundamentals
+# Hackers do Bem – Fundamentals
 
 > **Fundamentals** of the Hackers do Bem program (ESR / RNP) — **completed ✅**
 > 96-hour synchronous course covering core cybersecurity domains through theory, labs, and hands-on exercises.
