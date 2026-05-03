@@ -51,7 +51,7 @@ netstat -tulnp
 
 ---
 
-## Tools & Technologies:
+**Tools & Technologies:**
 
 - Kali Linux, Windows Server 2022
 - Nmap, Searchsploit (Exploit-DB)
