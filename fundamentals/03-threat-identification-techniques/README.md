@@ -92,8 +92,8 @@ This module expanded that perspective by showing that:
 
 It shifted my mindset from:
 
-> *“Is the system responding correctly?”*
-to
+> *“Is the system responding correctly?”*  
+to  
 > *“What hidden risks can be identified from this behavior?”*
 
 
