@@ -1,6 +1,6 @@
 # Module 03 – Threat Identification Techniques
 
-> **Status:** ✅ Completed | **Sessions:** 4th online meeting (Feb 09, 2026) | **Lab deadline:** Feb 22, 2026
+> **Status:** ✅ Completed | **Sessions:** 5th & 6th online meetings (Feb 11 & 13) | **Lab deadline:** Feb 22, 2026
 
 ---
 
