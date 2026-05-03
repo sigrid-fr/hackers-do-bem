@@ -49,8 +49,6 @@ netstat -tulnp
 
 ```
 
----
-
 **Tools & Technologies:**
 
 - Kali Linux, Windows Server 2022
