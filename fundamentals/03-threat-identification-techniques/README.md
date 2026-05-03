@@ -22,7 +22,7 @@ This module focuses on identifying potential threats through reconnaissance, tra
 
 ---
 
-## 💻 Commands & Tools Used in Labs
+## Commands & Tools Used in Labs
 
 ```bash
 # Network scanning and service discovery
