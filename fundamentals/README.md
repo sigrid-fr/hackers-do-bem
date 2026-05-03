@@ -80,7 +80,8 @@ fundamentals/
 │   └── scripts/
 └── 12-incident-response-and-secure-protocols/
 │   ├── README.md
-│   └── scripts/                       
+│   └── scripts/
+└── fundamentals-certificate.pdf                       
 ```
 
 ---
