@@ -39,7 +39,8 @@ hackers-do-bem/
 │   ├── 09-public-key-infrastructure-and-blockchain/
 │   ├── 10-host-security/
 │   ├── 11-secure-networking-and-security-devices/
-│   └── 12-incident-response-and-secure-protocols/
+│   ├── 12-incident-response-and-secure-protocols/
+|   └── fundamentals-certificate.pdf
 │
 ├── devsecops-specialization/        ← 🔄 In progress (started May 4, 2026)
 │   ├── README.md                    ← Full specialization overview
