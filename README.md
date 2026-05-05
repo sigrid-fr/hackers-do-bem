@@ -1,4 +1,4 @@
-# 🛡️ Hackers do Bem – Cybersecurity Labs
+# Hackers do Bem – Cybersecurity Labs
 
 > Documentation of my full journey through the **Hackers do Bem** program (SENAI / ESR / RNP) — Brazil's national cybersecurity training program.
 > This repository tracks everything I learned across two levels, written as a **QA Engineer transitioning into Cybersecurity**.
