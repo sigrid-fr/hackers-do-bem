@@ -56,20 +56,6 @@ devsecops-specialization/
 │   ├── lesson-03-secure-dev-security-automation.md
 │   ├── lesson-04-continuous-monitoring-incident-response.md
 │   └── lesson-05-devsecops-practices.md
-│
-├── labs/
-│   ├── README.md                      ← Index of all 15 lab exercises
-│   ├── lab-01/
-│   ├── lab-02/
-│   └── ...
-│
-├── case-study/
-│   ├── README.md                      ← Case study overview & approach
-│   ├── analysis.md                    ← Investigation & findings
-│   ├── pipeline/                      ← CI/CD pipeline files built for the project
-│   ├── report.md                      ← Final deliverable report
-│   └── assets/                        ← Diagrams, screenshots, topology
-│
 └── resources.md                       ← Tools, links & references
 ```
 
