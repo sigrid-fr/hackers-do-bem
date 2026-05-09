@@ -56,6 +56,7 @@ devsecops-specialization/
 │   ├── lesson-03-secure-dev-security-automation.md
 │   ├── lesson-04-continuous-monitoring-incident-response.md
 │   └── lesson-05-devsecops-practices.md
+│
 └── resources.md                       ← Tools, links & references
 ```
 
