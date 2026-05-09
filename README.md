@@ -46,10 +46,7 @@ hackers-do-bem/
 │   ├── README.md                    ← Full specialization overview
 │   ├── module-01-secure-sdlc/
 │   ├── module-02-pipelines-automation/
-│   ├── module-03-devsecops/
-│   ├── labs/
-│   └── case-study/                  ← Final project
-│
+│   └── module-03-devsecops/
 └── resources.md                     ← Curated tools, links & references
 ```
 
